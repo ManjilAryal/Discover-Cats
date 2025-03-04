@@ -55,6 +55,9 @@ body{
 #txt2,#txt3,#txt4{
     display: none;
 }
+#txt4{
+    text-align:left;
+}
 @media(max-width:2560px){
     .text-container{
         font-size: 50px;
